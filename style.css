@@ -57,10 +57,20 @@ body {
     text-align: center;
 }
 
-.container .footerText {
-    margin: 10px 0px;
+.container .footer {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 50px;
+}
+
+.container .footer .footerText {
+    margin: 0px 10px;
     text-align: center;
-    color: #FFFFFF;
+    color: #999;
     text-decoration: none;
     width: 100%;
 }
