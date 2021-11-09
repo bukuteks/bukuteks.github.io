@@ -61,7 +61,7 @@ body {
     width: 100%;
     height: 100px;
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
     align-content: center;
@@ -85,7 +85,7 @@ body {
 
 .container .footer .footerLicense {
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: row nowrap;
     justify-content: center;
     align-items: center;
     align-content: center;
