@@ -1,18 +1,25 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Channel Buku Teks Website",
+    "short_name": "Channel Buku Teks",
+    "description": "A project that helps teachers and student discover Malaysia's latest silibus textbook",
     "icons": [{
-            "src": "/android-chrome-192x192.png",
+            "src": "img/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "img/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
+    "start_url": "/index.html",
     "theme_color": "#ffffff",
+    "url": "https://www.channelbukuteks.ml/index.html",
+    "manifestUrl": "https://www.channelbukuteks.ml/site.manifest",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "standalone",
+    "lang": "English",
+    "orientation": "portrait",
+    "id": "/index.html"
 }
