@@ -20,5 +20,6 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "lang": "English",
-    "orientation": "portrait"
+    "orientation": "portrait",
+    "id": "/index.html"
 }
