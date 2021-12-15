@@ -65,6 +65,7 @@ body {
     justify-content: center;
     align-items: center;
     align-content: center;
+    margin-top: 20px;
 }
 
 .container .footer .footerLink {
@@ -77,13 +78,22 @@ body {
 }
 
 .container .footer .footerLink .footerText {
-    margin: 0px 10px;
+    margin: 0px 10px 10px 10px;
     text-align: center;
     color: #999;
     text-decoration: none;
 }
 
-.container .footer .footerLicense {
+.container .footer .footerEnd {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+}
+
+.container .footer .footerEnd .footerLicense {
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
@@ -92,7 +102,8 @@ body {
     width: 100%;
 }
 
-.container .footer .footerLicense .footerText {
+.container .footer .footerEnd .footerText {
     color: #999;
     text-align: center;
+    margin: 0px 0px 10px 0px;
 }
