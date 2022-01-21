@@ -2,7 +2,7 @@
 A project that helps teachers and student discover Malaysia's latest silibus textbook
 
 ## Website Link
-https://www.channelbukuteks.ml / https://bukuteks.github.io (default)
+https://www.channelbukuteks.tk / https://bukuteks.github.io (default)
 
 
 All rights reserved. Text book is provided as is by the Ministry of Education Malaysia for use in schools in Malaysia only.
